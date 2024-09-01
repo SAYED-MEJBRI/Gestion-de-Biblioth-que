@@ -41,7 +41,7 @@ Ce package contient les classes responsables de l'exécution de l'application :
 
 ## Configuration et Installation
 ```bash
-git clone https://github.com/votre-repository.git 
+git clone https://github.com/SAYED-MEJBRI/Gestion-de-Biblioth-que.git
 ```
 ### Prérequis
 
