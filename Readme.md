@@ -40,25 +40,26 @@ Ce package contient les classes responsables de l'exécution de l'application :
 - **Gestion des Fournisseurs** : Gérer les informations relatives aux fournisseurs de livres et autres produits.
 
 ## Configuration et Installation
-
+```bash
+git clone https://github.com/votre-repository.git 
+```
 ### Prérequis
 
 - Java JDK 22.0.1 ou supérieur
 - Eclipse IDE (Version 2024-06 ou plus récente)
 - MySQL (version 5.x ou supérieure)
 
-### Cloner le projet
-
-```bash
-git clone https://github.com/votre-repository.git
-
 ### Configuration de la base de données
+
 - Créez une base de données MySQL.
 - Importez le fichier SQL fourni dans le dossier DataBase du projet pour créer les tables nécessaires.
 
 ### Exécution du projet
+
 - Importez le projet dans Eclipse.
 - Exécutez la classe Application depuis le package main.
+  
 ## Auteurs
+
 Sayed Mejbri- Développeur principal
 
